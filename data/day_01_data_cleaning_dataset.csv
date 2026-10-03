@@ -1,0 +1,16 @@
+employee_id,name,email,city,job_title,age,hire_date,salary,remote
+1001,Lara,lara@example.com,Aleppo,Data Analyst,24,2026-09-01,850,Yes
+1002,Maya,MAYA@EXAMPLE.COM ,aleppo ,Data analyst,26,01/09/2026,900,yes
+1003,Rami,rami@example.com,Damascus,Developer,27,2026/09/03,1100,No
+1004,Sara,,Damascus,developer,25,2026-09-04,1050,No
+1005,Omar,omar@example.com,Homs,Data Engineer,29,2026-09-05,1400,YES
+1006,Nour,nour@example.com,Homs,Data engineer,28,2026-09-06,1350,yes
+1007,Adam,adam@example.com,Latakia,Data Analyst,31,2026-09-07,,No
+1008,Lina,lina@example.com,latakia,Data Analyst ,30,2026-09-08,980,No
+1009,Kareem,kareem@example.com,Aleppo,Developer,33,2026-09-09,1250,Yes
+1010,Dina,dina@example.com,Aleppo,Developer,33,2026-09-09,1250,Yes
+1010,Dina,dina@example.com,Aleppo,Developer,33,2026-09-09,1250,Yes
+1011,Hadi,hadi@example,Hama,Data Engineer,35,2026-09-11,1500,No
+1012,Rana,rana@example.com,Hama,data engineer,34,2026-09-12,1450,no
+1013,Tarek,tarek@example.com,Damascus,Data Analyst,22,2026-09-13,700,YES
+1014,Mira,mira@example.com,Aleppo,Data Analyst,24,2026-09-14,820,
